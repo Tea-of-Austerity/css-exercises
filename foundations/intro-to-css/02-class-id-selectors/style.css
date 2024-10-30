@@ -1,0 +1,23 @@
+.pinkstuff{
+    background-color: #db14db;
+    font-family: "Verdana", sans-serif;
+}
+
+#second{
+    font-size: 36px;
+    color: #2679d1;
+}
+
+#third{
+    font-size: 24px;
+}
+
+.pinkstuff#third{
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+#fourth{
+    background-color:#41f061;
+    font-size: 24px;
+    font-weight: bold;
+}
